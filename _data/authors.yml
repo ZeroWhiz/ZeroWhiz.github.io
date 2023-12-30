@@ -1,0 +1,16 @@
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+zerowhiz:
+  name: zerowhiz
+  url: https://ZeroWhiz.github.io
+# -------------------------------------
+
+cotes:
+  name: Cotes Chung
+  twitter: cotes2020
+  url: https://github.com/cotes2020/
+
+sille_bille:
+  name: Dinesh Prasanth Moluguwan Krishnamoorthy
+  twitter: dinesh_MKD
+  url: https://github.com/SilleBille/
