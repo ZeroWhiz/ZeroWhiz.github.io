@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# ¿Quíen soy?
+# ¿Quien soy?
 
 ¡Hola y bienvenidos a mi blog! Mi nombre es Mauro y desde pequeño me ha gustado la informática, especialmente el ámbito de la ciberseguridad. Hace un tiempo decidí empezar a estudiar de forma autodidacta.
 
